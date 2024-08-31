@@ -10,7 +10,7 @@ const Chats = () => {
 				<StatusBar style='light' />
 				<View style={{ height: '100%', backgroundColor: '#1B0026', margin: 0 }}>
 					<View style={{}}>
-						<Text style={{}}>Hello</Text>
+						<Text style={{}}>Hello test</Text>
 						<Pressable
 							onPress={() => setModalVisible(false)}>
 							<Text style={{}}>Hide Modal</Text>
